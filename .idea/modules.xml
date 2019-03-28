@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaModule.iml" filepath="$PROJECT_DIR$/JavaModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bar/bar.iml" filepath="$PROJECT_DIR$/bar/bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.greetings/com.greetings.iml" filepath="$PROJECT_DIR$/com.greetings/com.greetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service/com.service.iml" filepath="$PROJECT_DIR$/com.service/com.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.client/com.service.client.iml" filepath="$PROJECT_DIR$/com.service.client/com.service.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.service.impl/com.service.impl.iml" filepath="$PROJECT_DIR$/com.service.impl/com.service.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.astro/org.astro.iml" filepath="$PROJECT_DIR$/org.astro/org.astro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qux/qux.iml" filepath="$PROJECT_DIR$/qux/qux.iml" />
+    </modules>
+  </component>
+</project>

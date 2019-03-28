@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jmm_c" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jcst" target="1.8" />
+      <module name="jmm1" target="11" />
+      <module name="jmm_c" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="unsafe" options="--add-exports=java.base/jdk.internal.misc=com.us" />
+    </option>
+  </component>
+</project>
